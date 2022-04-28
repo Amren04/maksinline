@@ -1,0 +1,5 @@
+TOKEN = "5293765470:AAG50rBq1uRrUFBRaTqOyXLoZ5lGn75RyL4"
+URL_JIHC = "https://tilda.cc/page/?pageid=25964935&projectid=3627146"
+URL_APPLE = "https://www.instagram.com/msq.official/"
+URL_JHC = "https://www.youtube.com"
+URL_CLOCK = "https://www.instagram.com/msq.woman/"
